@@ -1,2 +1,1 @@
-# Coursera-test
-This is a coursera test repository
+# Repository for all the Python practice questions from Leetcode
